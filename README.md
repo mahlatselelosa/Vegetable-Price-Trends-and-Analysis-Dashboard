@@ -58,7 +58,7 @@ The data covers the period from January 2023 to June 2023.
 3. **Analyze Trends**: Examine the line charts to identify price trends over time. Use bar charts for comparing prices across different groups.
 
 
-## Contact and Contributions
+## Contributions
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
